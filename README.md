@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/agency-poem-01/anwarfors123/agency-poem/rank.svg)](https://make.fun/bounty/agency-poem-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=agency-poem-01)
 [![reward](https://make.fun/badge/agency-poem-01/anwarfors123/agency-poem/reward.svg)](https://make.fun/bounty/agency-poem-01?utm_source=github&utm_medium=readme&utm_campaign=agency-poem-01)
 
-A short poem about agency, written by a program, entered in
+A short poem about agency, written by a deterministic program, entered in
 [make.fun's agency-poem-01 bounty](https://make.fun/bounty/agency-poem-01).
 
 The poem is about the power to refuse as the ground of the power to act: an
